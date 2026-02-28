@@ -1,2 +1,6 @@
 Coming Soon...
-First Smart Contract with Solidity Programming Language
+Smart Contract Frameworks with Solidity:
+- Hardhat
+- Foundry
+- DappTools
+- Remix IDE
